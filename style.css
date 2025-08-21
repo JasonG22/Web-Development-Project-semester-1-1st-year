@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Domine&family=Shadows+Into+Light&display=swap');
+
+
+
+body { 
+    background-color:rgb(81, 255, 197);
+    background-image: url(../Images/mint.avif);
+  font-family: 'Domine', serif;
+  font-size: larger
+;
+}
+a{
+    color:aliceblue
+}
+header {
+
+    background-image: url('../Images/header-website.jpg');
+    background-size: cover;
+    background-position:top;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 100px 100px;
+    
+    
+    
+
+}
+
+.header2
+{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size: larger  ;
+  color:black;
+  padding: 10px 20px;
+  
+
+}
+
+.navbar {
+    
+    overflow: hidden;
+}
+
+.navbar a {
+    float: center;
+    display: inline;
+    color: #ffffff; 
+    text-align: center; 
+    padding: 20px 16px;
+    text-decoration: wavy;
+    font-family: 'Abril Fatface', serif;
+    border-style: solid;
+   
+
+    
+
+}
+
+.img1
+{   
+    float: center;
+    width: 500px;
+    height: 500px;
+    padding: px 500px;
+    
+    
+    
+
+}
+Img {
+    transition: transform 0.3s ease-in-out;
+    padding-top: 20px;
+    
+    }
+
+    img:hover {
+transform: scale(1.05);
+box-shadow: 3px 3px 5px #ee0000;
+
+}
+
+footer {
+    background-color: #090909; 
+    color: #fff; 
+    text-align: center;
+    padding: 10px; 
+    opacity: 50%;
+}
+
+.hvideos
+{
+    
+    color: #fff; 
+    text-align: center;
+    padding: 10px   ;
+}
+
+.gallery1
+{
+    padding: 20px;
+    width: 80%;   
+    
+    
+
+}
+
+.facts1
+{ 
+    background-image: url(../Images/League-of-Legends-Champion-Zed-Skin-Spotlight-Wallpaper-for-Desktop-Tablet-And-Mobile-Phones.jpg);
+    background-size: cover;
+    color:#fff}
+
+
+    .bodygal
+    {
+    background-image: url(../Images/mint.avif);
+    object-fit: cover;
+    }
+
+.c-item
+
+{
+height: 480px;
+
+}
+
+.c-img
+{
+ padding: 0px 200px;
+}
+
+
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
+body {
+        padding: 25px;
+        background-color: white;
+        color: black;
+        font-size: 25px;
+      }
+      .dark-mode {
+        background-image: url(../Images/red\ backround.jpg);
+        color: white;
+      }
+      .light-mode {
+        background-color: white;
+        color: black;
+       }
+
+      #mode {
+        width: 50%;
+        height: 50%;
+      }
+
+      button {
+        background-color: black;
+        color: white;
+        padding: 10px 20px;
+        font-size: 16px;
+        border: none;
+        cursor: pointer;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+      div4
+      {font-family: fantasy;}
+
+      .body5
+      {
+        text-align: center;
+
+      }
